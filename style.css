@@ -1,0 +1,39 @@
+html, body{
+    height: 100%;
+    }
+    
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: sans-serif;
+        font-size: 100%;
+        color: #ffffff;
+        background-color: rgb(28, 25, 22);
+    }
+    .photo {
+        width: 160x;
+        height: 160px;
+    }
+    
+    .wrapper {
+        width: 600px;
+    }table1 tr td:first-child {
+        font-weight: 700;
+    }
+    
+    .photo {
+        border-radius: 7rem;
+    }
+    
+    .table1 tr td:first-child {
+        font-weight: 700;
+    }
+    
+    .table2 tr td:first-child {
+        font-weight: 700;
+    }
+    
+    .table3 tr td:first-child {
+        font-weight: 700;
+    }
